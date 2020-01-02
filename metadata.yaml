@@ -1,5 +1,8 @@
 _repo: The-Soul-of-Abraham-Lincoln_60996
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60996-h/images/cover.jpg
 creator:
   author:
     agent_name: Barton, William Eleazar
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '6665'
     url: http://www.gutenberg.org/2009/agents/6665
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60996#The-Soul-of-Abraham-Lincoln
 gutenberg_issued: '2019-12-22'
 gutenberg_type: Text
 identifiers:
